@@ -1,0 +1,10 @@
+{
+	"short_name":"3G Speeds",
+	"name":"3G Speed Calculator",
+	"icons":[],
+	"start_url":"/3g-speed/",
+	"theme_color":"#1a1a1a",
+	"background_color":"#1a1a1a",
+	"display":"standalone",
+	"orientation":"portrait"
+}
